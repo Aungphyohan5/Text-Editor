@@ -10,7 +10,7 @@ In this project, I created notes or code snippets with or without an internet co
 - [Tasks Completed](#TaskCompleted)
 - [Link](#Link)
 - [Screenshots](#Screenshots)
-- [Usage] (#Usage)
+- [Usage](#Usage)
 - [License](#license)
 
 
