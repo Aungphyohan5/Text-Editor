@@ -1,6 +1,6 @@
 # Text-Editor
  
- # Description :
+## Description :
  
 In this project, I created notes or code snippets with or without an internet connection.
 
